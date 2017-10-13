@@ -1,0 +1,176 @@
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\VSIXProject_Editor.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\VSIXProject_Editor.pkgdef
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\VSIXProject_Editor.vsix
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\extension.vsixmanifest
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\EnvDTE.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\EnvDTE100.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\EnvDTE80.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\EnvDTE90.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\stdole.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\VSExtensibilityHelper.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\EnvDTE90a.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.csprojResolveAssemblyReference.cache
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSPackage.resources
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.Controls.WinForms.WinFormUserControl.resources
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.csproj.GenerateResource.Cache
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.csproj.CoreCompileInputs.cache
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.dll
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.pdb
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.pkgdef
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.latest.pkgdef
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\extension.vsixmanifest
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor_MarkupCompile.cache
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor_MarkupCompile.lref
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.g.resources
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\Controls\Wpf\WpfUserControl.g.cs
+C:\Users\mid\Documents\Visual Studio 2017\Projects\VSExtensibilityHelper\VSIXProject_Editor\obj\Debug\Controls\Wpf\WpfUserControl.baml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\VSIXProject_Editor.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\VSIXProject_Editor.pkgdef
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\VSIXProject_Editor.vsix
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\extension.vsixmanifest
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\EnvDTE.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\EnvDTE100.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\EnvDTE80.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\EnvDTE90.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Validation.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\stdole.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\VSExtensibilityHelper.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\EnvDTE90a.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.MSXML.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Validation.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.csprojResolveAssemblyReference.cache
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\Controls\Wpf\WpfUserControl.g.cs
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor_MarkupCompile.cache
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor_MarkupCompile.lref
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\Controls\Wpf\WpfUserControl.baml
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.g.resources
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSPackage.resources
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.Controls.WinForms.WinFormUserControl.resources
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.csproj.GenerateResource.Cache
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.csproj.CoreCompileInputs.cache
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.dll
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.pdb
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.pkgdef
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\VSIXProject_Editor.latest.pkgdef
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSIXProject_Editor\obj\Debug\extension.vsixmanifest
