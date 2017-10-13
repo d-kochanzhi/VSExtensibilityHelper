@@ -64,8 +64,9 @@ public sealed class VSPackageCustomEditors : Package
  \src\VSIXProject_Editor
 
 #### Result
-![image](https://github.com/d-kochanzhi/VSExtensibilityHelper/raw/master/src/resource/2017-10-13_16-48-58.png)
-![image](https://github.com/d-kochanzhi/VSExtensibilityHelper/raw/master/src/resource/2017-10-13_16-49-43.png)
+![image](https://github.com/d-kochanzhi/VSExtensibilityHelper/raw/master/resources/2017-10-13_16-48-58.png)
+
+![image](https://github.com/d-kochanzhi/VSExtensibilityHelper/raw/master/resources/2017-10-13_16-49-43.png)
 
 ### Based on:
 
