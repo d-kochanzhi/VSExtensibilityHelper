@@ -19,11 +19,13 @@ Services:
 #### Making custom VSIX Editor for "*.myExtension" files example:
 
 ```c#
- public sealed class WinFormsEditorFactory : BaseEditorFactory<WinFormsEditorEditorPane>
+ public sealed class WinFormsEditorFactory 
+ 	: BaseEditorFactory<WinFormsEditorEditorPane>
 {
 }
 
-public class WinFormsEditorEditorPane : BaseWinFormsEditorPane<WinFormsEditorFactory, Controls.WinForms.WinFormUserControl>
+public class WinFormsEditorEditorPane 
+	: BaseWinFormsEditorPane<WinFormsEditorFactory, Controls.WinForms.WinFormUserControl>
 {
 	#region Methods
 
@@ -72,3 +74,6 @@ public sealed class VSPackageCustomEditors : Package
 
  * [Custom Editors in VSXtra](http://dotneteers.net/blogs/divedeeper/archive/2008/09/01/LearnVSXNowPart30.aspx)
  
+## License
+
+This project is licensed under the MIT License
