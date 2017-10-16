@@ -56,7 +56,7 @@ public sealed class VSPackageCustomEditors : Package
 
             /*
              * Registering editor with WinForms control
-             * *.win
+             * *.myExtension
              */
             base.RegisterEditorFactory(new Editors.WinFormsEditorFactory()); 
     }
