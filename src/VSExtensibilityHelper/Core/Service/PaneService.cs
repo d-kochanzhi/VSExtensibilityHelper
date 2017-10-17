@@ -21,10 +21,16 @@ namespace VSExtensibilityHelper.Core.Service
 
         #region Methods
 
+        /// <summary>
+        /// Get a pane. 
+        /// You can use  Microsoft.VisualStudio.VSConstants.GUID_OutWindowGeneralPane 
+        /// </summary>
+        /// <returns></returns>
         private static bool EnsurePane()
         {
             if (_pane == null)
             {
+                
                 lock (_syncRoot)
                 {
                     if (_pane == null)
