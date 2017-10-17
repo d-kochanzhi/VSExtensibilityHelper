@@ -73,6 +73,7 @@ public sealed class VSPackageCustomEditors : Package
 ### Based on:
 
  * [Custom Editors in VSXtra](http://dotneteers.net/blogs/divedeeper/archive/2008/09/01/LearnVSXNowPart30.aspx)
+ * [Руководство по разработке модулей расширений] (https://habrahabr.ru/company/pvs-studio/blog/192486/)
  
 ## License
 
