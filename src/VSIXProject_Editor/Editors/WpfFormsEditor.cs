@@ -5,6 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using VSExtensibilityHelper.Core.Base;
+using VSExtensibilityHelper.Core.Service;
 
 namespace VSIXProject_Editor.Editors
 {
@@ -24,7 +25,9 @@ namespace VSIXProject_Editor.Editors
 
         protected override void LoadFile(string fileName)
         {
-
+            PaneService.Initialize(ServiceLocator.GetInstance<IServiceProvider>(), "My Pane");
+            PaneService.Log($"Loading file: {fileName}");
+            PaneService.Activate();
         }
 
         protected override void SaveFile(string fileName)

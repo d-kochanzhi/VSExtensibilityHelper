@@ -140,7 +140,7 @@ E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\bin\Debug\t
 E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
 E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
 E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
-E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\obj\Debug\VSExtensibilityHelper.csprojResolveAssemblyReference.cache
 E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\obj\Debug\VSExtensibilityHelper.csproj.CoreCompileInputs.cache
 E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\obj\Debug\VSExtensibilityHelper.dll
 E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\obj\Debug\VSExtensibilityHelper.pdb
+E:\YandexDisk\GitHub\VSExtensibilityHelper\src\VSExtensibilityHelper\obj\Debug\VSExtensibilityHelper.csprojResolveAssemblyReference.cache

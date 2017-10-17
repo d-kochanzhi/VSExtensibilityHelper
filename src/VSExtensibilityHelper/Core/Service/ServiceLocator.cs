@@ -14,7 +14,7 @@ namespace VSExtensibilityHelper.Core.Service
     /// <summary>
     /// This class unifies all the different ways of getting services within visual studio.
     /// </summary>
-    internal static class ServiceLocator
+    public static class ServiceLocator
     {
         #region Properties
 

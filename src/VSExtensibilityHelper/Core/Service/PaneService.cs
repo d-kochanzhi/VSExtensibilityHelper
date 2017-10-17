@@ -23,7 +23,7 @@ namespace VSExtensibilityHelper.Core.Service
 
         /// <summary>
         /// Get a pane. 
-        /// You can use  Microsoft.VisualStudio.VSConstants.GUID_OutWindowGeneralPane 
+        /// You can use  Microsoft.VisualStudio.VSConstants.OutputWindowPaneGuid. 
         /// </summary>
         /// <returns></returns>
         private static bool EnsurePane()
@@ -47,7 +47,7 @@ namespace VSExtensibilityHelper.Core.Service
                         {
                             output.CreatePane(
                                 ref _temp,
-                                _name,
+                                string.IsNullOrEmpty(_name)? "VSExtensibilityHelper - Pane" : _name,
                                 1,
                                 1);
 
@@ -97,14 +97,18 @@ namespace VSExtensibilityHelper.Core.Service
 
         public static void Initialize(IServiceProvider provider, string name)
         {
+            _pane = null;
             _provider = provider;
             _name = name;
+            _guid = null;
         }
 
         public static void Initialize(IServiceProvider provider, Guid paneGuid)
         {
+            _pane = null;
             _provider = provider;
             _guid = paneGuid;
+            _name = null;
         }
 
         public static void Log(string message)
